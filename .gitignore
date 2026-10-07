@@ -1,0 +1,14 @@
+﻿config.json
+user_data/config.json
+*.sqlite
+user_data/*.sqlite
+user_data/logs/
+user_data/backtest_results/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.idea/
+
+user_data/data/
