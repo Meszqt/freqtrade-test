@@ -1,0 +1,2 @@
+# freqtrade-test
+test
